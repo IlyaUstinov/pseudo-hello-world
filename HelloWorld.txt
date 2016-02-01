@@ -1,5 +1,5 @@
-print("Hello World!")
-print("Hello World!")
-print("Hello World!")
-print("I think enough")
-print("Or it's not...")
+print("Hello World!");
+print("Hello World!");
+print("Hello World!");
+print("I think enough");
+print("Or it's not...");
